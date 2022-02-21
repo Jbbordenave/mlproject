@@ -24,4 +24,3 @@ if __name__ == "__main__":
     lat2, lon2 = 12, 48
     distance = haversine(lon1, lat1, lon2, lat2)
     print(distance)
-    print('test')
